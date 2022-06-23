@@ -89,6 +89,7 @@
             android:gravity="center">
 
             <TextView
+                style="@style/klStyle"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:text="Beiträge"
@@ -97,6 +98,7 @@
                 android:textSize="16sp" />
 
             <TextView
+                style="@style/klStyle"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:text="Follower"
@@ -105,6 +107,7 @@
                 android:textSize="16sp" />
 
             <TextView
+                style="@style/klStyle"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:text="Gefolgt"
@@ -172,10 +175,10 @@
             android:layout_height="wrap_content"
             android:layout_marginEnd="10dp"
             android:layout_weight="1"
-            android:backgroundTint="@color/white"
+            android:backgroundTint="@color/primaryDarkColor"
             android:text="Nachricht"
             android:textAllCaps="false"
-            android:textColor="@android:color/black" />
+            android:textColor="@color/colorTextWhite" />
 
         <ImageButton
             android:id="@+id/btnAddFriend"
