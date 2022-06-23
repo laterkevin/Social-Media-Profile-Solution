@@ -4,7 +4,7 @@
     <color name="primaryLightColor">#c3fdff</color>
     <color name="primaryDarkColor">#5d99c6</color>
     <color name="primaryTextColor">#000000</color>
-    <color name="colorTextWhite">#ECFFE5</color>
+    <color name="colorTextWhite">#FFFEFE</color>
 
     <color name="follow_button"></color>
 </resources>

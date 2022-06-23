@@ -175,10 +175,10 @@
             android:layout_height="wrap_content"
             android:layout_marginEnd="10dp"
             android:layout_weight="1"
-            android:backgroundTint="@color/primaryDarkColor"
+            android:backgroundTint="@color/colorTextWhite"
             android:text="Nachricht"
             android:textAllCaps="false"
-            android:textColor="@color/colorTextWhite" />
+            android:textColor="@android:color/black" />
 
         <ImageButton
             android:id="@+id/btnAddFriend"
