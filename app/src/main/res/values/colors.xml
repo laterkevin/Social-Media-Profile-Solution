@@ -1,10 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <color name="primaryColor">#90caf9</color>
-    <color name="primaryLightColor">#c3fdff</color>
-    <color name="primaryDarkColor">#5d99c6</color>
-    <color name="primaryTextColor">#000000</color>
-    <color name="colorTextWhite">#FFFEFE</color>
+    //Light Mode
+    <color name="primaryColor">#EFEFEF</color>
+    <color name="primaryVariant">#DADADA</color>
+    <color name="primaryTextColor">#141414</color>
+    //2nd Set Light
+    <color name="secondaryColor">#2196F3</color>
+    <color name="secondaryVariant">#1963A3</color>
+    <color name="secondaryTextColor">#FEFEFE</color>
+    //Dark Mode
+    <color name="primaryDarkColor">#212121</color>
+    <color name="primaryDarkVariant">#292929)</color>
+    <color name="primaryDarkTextColor">#D6D6D6</color>
+    //2nd Set Dark
+    <color name="secondaryDarkColor">#DD541F</color>
+    <color name="secondaryDarkVariant">#FF8657)</color>
+    <color name="secondaryDarkTextColor">#010101</color>
 
     <color name="follow_button"></color>
 </resources>
